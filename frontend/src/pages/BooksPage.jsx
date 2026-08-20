@@ -6,7 +6,7 @@ function BooksPage() {
       <h1>Books</h1>
 
       <BookCard
-        title="BOOK 1"
+        title="Book 1"
         author="Smit Rathod"
         category="Fiction"
         available={true}
